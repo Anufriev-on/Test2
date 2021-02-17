@@ -7,6 +7,6 @@ public class Main {
         }
 
         System.out.println((System.currentTimeMillis() - startTime));
-        System.out.println((System.currentTimeMillis() - startTime));
+
     }
 }
